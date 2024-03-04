@@ -22,5 +22,10 @@ public class SampleTest {
 	public void sampleTest4() {
 		System.out.println("execute test4");
 	}
+	
+	@Test
+	public void sampleTest5() {
+		System.out.println("execute test5");
+	}
 
 }
