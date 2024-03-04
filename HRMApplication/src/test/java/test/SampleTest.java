@@ -18,5 +18,9 @@ public class SampleTest {
 	public void sampleTest3() {
 		System.out.println("execute test3");
 	}
+	@Test
+	public void sampleTest4() {
+		System.out.println("execute test4");
+	}
 
 }
