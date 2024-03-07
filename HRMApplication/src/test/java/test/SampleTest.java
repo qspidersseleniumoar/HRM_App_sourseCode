@@ -39,6 +39,11 @@ public class SampleTest {
 	}
 	
 	@Test
+	public void sampleTest9() {
+		System.out.println("execute test9");
+	}
+	
+	@Test
 	public void sampleTest8() {
 		System.out.println("execute test8");
 	}
