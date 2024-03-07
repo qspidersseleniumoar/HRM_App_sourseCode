@@ -44,6 +44,11 @@ public class SampleTest {
 	}
 	
 	@Test
+	public void sampleTest10() {
+		System.out.println("execute test10");
+	}
+	
+	@Test
 	public void sampleTest8() {
 		System.out.println("execute test8");
 	}
